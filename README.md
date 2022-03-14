@@ -4,6 +4,7 @@
 - [ ] Τι είναι το **A**pplication **P**rogramming **I**nterface (API).
 * [wikipedia](https://en.wikipedia.org/wiki/API)
 * [REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
+* [what is REST](https://restfulapi.net/)
 
 - [ ] Τι είναι το **cURL**.
 * [wikipedia](https://en.wikipedia.org/wiki/CURL)
