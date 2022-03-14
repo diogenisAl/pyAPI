@@ -1,0 +1,17 @@
+ECLASSURL="https://opencourses.ionio.gr" 
+
+# login using user credentials 
+#e.g. TOKEN=`curl -d "uname=p10abcd&pass=aVerySecurePass" "$ECLASSURL/modules/mobile/mlogin.php"` 
+TOKEN=`curl -d "uname=<Το username σας, λ.χ. p10abcd>&pass=<Το password σας>" "$ECLASSURL/modules/mobile/mlogin.php"` 
+
+# request user portfolio using TOKEN 
+curl -d "token=$TOKEN" "$ECLASSURL/modules/mobile/mportfolio.php" 
+
+# request user's registered courses using TOKEN 
+curl -d "token=$TOKEN" "$ECLASSURL/modules/mobile/mcourses.php" 
+
+# request the tools of a registered courses using TOKEN and course code 
+curl -d "token=$TOKEN" "$ECLASSURL/modules/mobile/mtools.php?course=COURSECODE" 
+
+# logout from eclass 
+curl -d "token=$TOKEN" "$ECLASSURL/modules/mobile/mlogin.php?logout"
