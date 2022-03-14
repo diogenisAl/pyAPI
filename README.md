@@ -7,7 +7,7 @@
 * [wikipedia](https://en.wikipedia.org/wiki/API)
 * [REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 
-- [ ] Τι είναι το cURL.
+- [ ] Τι είναι το **cURL**.
 * [wikipedia](https://en.wikipedia.org/wiki/CURL)
 * [curl.se](https://curl.se/)
 * [cURL Command Tutorial with Examples](https://github.com/diogenisAl/pyAPI/blob/main/additional_files/cURL%20Command%20Tutorial%20with%20Examples.pdf)
