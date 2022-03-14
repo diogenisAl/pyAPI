@@ -15,7 +15,12 @@ for i in data:
     print("Body: ", ____)
 
 
+# for another point of view
 # Use json.dumps to
+'''
 data_json = json.dumps(data, indent=4)
+
+print(data_json)
+'''
 
 f.close()
