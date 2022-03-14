@@ -16,7 +16,7 @@
 ### 2. Προετοιμασία Ι
 - [ ] Αποθηκεύστε τοπικά τα δεδομένα που θα βρείτε [online](https://jsonplaceholder.typicode.com/posts) με τηνεντολή (στο **terminal**):
 
-`curl -o data.json https://jsonplaceholder.typicode.com/posts`
+    `curl -o data.json https://jsonplaceholder.typicode.com/posts`
 
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_curl.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_curl.py)
 
