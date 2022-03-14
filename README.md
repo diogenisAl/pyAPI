@@ -4,6 +4,10 @@
 
 ## 1. Προθέρμανση
 - [ ] Τι είναι το **A**pplication **P**rogramming **I**nterface (API).
+- [ ] Τι είναι το cURL.
+* [wikipedia](https://en.wikipedia.org/wiki/CURL)
+* [curl.se](https://curl.se/)
+* [cURL Command Tutorial with Examples](https://github.com/diogenisAl/pyAPI/blob/main/additional_files/cURL%20Command%20Tutorial%20with%20Examples.pdf)
 
 ---
 ## Ο χάρτης του αποθετηρίου
