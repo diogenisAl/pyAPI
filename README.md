@@ -13,7 +13,7 @@
 
 ---
 
-### 2. Εξάσκηση - μέρος Α
+### 2. Προετοιμασία Ι
 - [ ] Αποθηκεύστε τοπικά τα δεδομένα της άσκησης (εντολή στο **terminal**):
 > curl -o data.json https://jsonplaceholder.typicode.com/posts
 
@@ -21,7 +21,7 @@
 
 ---
 
-### 3. Εξάσκηση - μέρος B
+### 3. Προετοιμασία ΙΙ
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_requests.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_requests.py)
 
 ---
