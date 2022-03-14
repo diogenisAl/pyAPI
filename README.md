@@ -13,7 +13,7 @@
 
 ---
 
-### 2. Ελαφρύ τρεξιμο Ι
+### 2. Βάδην
 - [ ] Αποθηκεύστε τοπικά τα δεδομένα που θα βρείτε [online](https://jsonplaceholder.typicode.com/posts) με την εντολή (στο **terminal**):
 
     `curl -o data.json https://jsonplaceholder.typicode.com/posts`
@@ -22,7 +22,7 @@
 
 ---
 
-### 3. Ελαφρύ τρεξιμο ΙΙ
+### 3. Ελαφρύ τρεξιμο
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_requests.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_requests.py)
 
 ---
