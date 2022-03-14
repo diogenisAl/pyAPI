@@ -22,7 +22,7 @@
 ---
 
 ### 3. Εξάσκηση - μέρος B
-- [ ] 
+- [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_requests.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_requests.py)
 
 ---
 
