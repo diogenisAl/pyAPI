@@ -3,7 +3,7 @@
 # pyAPI
 
 ## 1. Προθέρμανση
-* Τι είναι το **A**pplication **P**rogramming **I**nterface (API).
+- [ ] Τι είναι το **A**pplication **P**rogramming **I**nterface (API).
 
 ---
 ## Ο χάρτης του αποθετηρίου
