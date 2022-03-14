@@ -14,7 +14,7 @@
 ---
 
 ### 2. Προετοιμασία Ι
-- [ ] Αποθηκεύστε τοπικά τα δεδομένα που θα βρείτε [online](https://jsonplaceholder.typicode.com/posts) με τηνεντολή (στο **terminal**):
+- [ ] Αποθηκεύστε τοπικά τα δεδομένα που θα βρείτε [online](https://jsonplaceholder.typicode.com/posts) με την εντολή (στο **terminal**):
 
     `curl -o data.json https://jsonplaceholder.typicode.com/posts`
 
