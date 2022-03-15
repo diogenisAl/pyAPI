@@ -46,7 +46,9 @@
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_spotipy.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_spotipy.py)
 
 **Υπενθύμιση:** θα πρέπει να τροποποιήσετε κατάλληλα τις αντίστοιχες παραμέτρους:
+
 `client_id='**INSERT PUBLIC TOKEN HERE**',`
+
 `client_secret='**INSERT SECRET TOKEN HERE**')`
 
 
