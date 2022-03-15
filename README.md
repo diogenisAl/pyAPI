@@ -30,12 +30,17 @@
 ### 3. Tρέξιμο
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_make_your_own.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_make_your_own.py)
 > Παράδειγμα URL: http://127.0.0.1:5000/api/animals?english_name=Dog
+
 ---
 
+### 4. Γρήγορο τρέξιμο
+- [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_corfiot_dictionary.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_corfiot_dictionary.py)
 
-## Ο χάρτης του αποθετηρίου
-* Στο κλαδί (branch) []() θα βρείτε τα αρχεία για...
-* Στο κλαδί []() θα βρείτε τα αρχεία με ...
+---
+
+### 4. Τρέξιμο μαλλιοκούβαρα
+- [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_spotipy.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_spotipy.py)
+
 
 ---
 
