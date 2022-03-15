@@ -42,6 +42,7 @@
 ---
 
 ### 4. Τρέξιμο μαλλιοκούβαρα
+- [ ] Πρώτα θα πρέπει να έχετε ακολουθήσει τις σχετικές [οδηγίες](https://github.com/diogenisAl/pyAPI/blob/main/additional_files/%CE%A0%CF%81%CE%BF%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%84%CE%BF%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF%20%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC%20%CE%BC%CE%B5%20%CF%84%CE%B1%20API.pdf) (βλ. εγκατάσταση spotipy, tokens) στις οποίες έγινε αναφορά παραπάνω
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_spotipy.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_spotipy.py)
 
 
