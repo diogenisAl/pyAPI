@@ -29,7 +29,7 @@
 
 ### 3. Tρέξιμο
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_make_your_own.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_make_your_own.py)
-
+    Παράδειγμα URL: http://127.0.0.1:5000/api/animals?english_name=Dog
 ---
 
 
