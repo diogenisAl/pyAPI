@@ -47,7 +47,9 @@
 
 Θα πρέπει να έχετε τροποποιήσει κατάλληλα τις αντίστοιχες παραμέτρους:
 > spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
+> 
 > client_id='**INSERT PUBLIC TOKEN HERE**',
+> 
 > client_secret='**INSERT SECRET TOKEN HERE**')
 
 
