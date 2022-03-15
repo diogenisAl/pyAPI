@@ -47,9 +47,9 @@
 
 **Υπενθύμιση:** θα πρέπει να τροποποιήσετε κατάλληλα τις αντίστοιχες παραμέτρους:
 
-`client_id='**INSERT PUBLIC TOKEN HERE**',`
+    `client_id='**INSERT PUBLIC TOKEN HERE**',`
 
-`client_secret='**INSERT SECRET TOKEN HERE**')`
+    `client_secret='**INSERT SECRET TOKEN HERE**')`
 
 
 ---
