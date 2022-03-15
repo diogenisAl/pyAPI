@@ -1,7 +1,7 @@
-# Application Programming Interface (API)
+# Application Programming Interface
 
 ### 0. Προθέρμανση
-- [ ] Τι είναι το **A**pplication **P**rogramming **I**nterface
+- [ ] Τι είναι το **A**pplication **P**rogramming **I**nterface (API)
 * [wikipedia](https://en.wikipedia.org/wiki/API)
 * [REST API](https://www.redhat.com/en/topics/api/what-is-a-rest-api)
 * [what is REST](https://restfulapi.net/)
