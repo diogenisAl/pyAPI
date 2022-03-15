@@ -36,16 +36,19 @@ def api_all():
 
 @app.route('/api/animals', methods=['GET'])
 def api_id():
-    # Check if an ID was provided as part of the URL.
-    # If ID is provided, assign it to a variable.
-    # If no ID is provided, display an error in the browser.
+    # Check if an English Name was provided as part of the URL.
+    # If English Name is provided, assign it to a variable.
+    # If no English Name is provided, display an error in the browser.
+    # URL example: http://127.0.0.1:5000/api/animals?english_name=Dog
+
     #if 'id' in request.args:
     #    id = int(request.args['id'])
+
     if 'english_name' in request.args:
-        english_name = request.args['english_name']
+        english_name = str(request.args['english_name'])
     else:
 
-        return "Error: No id field provided. Please specify an id."
+        return "Error: No english_name field provided. Please specify an english_name."
 
     # Create an empty list for our results
     results = []
