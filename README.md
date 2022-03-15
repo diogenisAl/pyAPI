@@ -34,6 +34,7 @@
 ---
 
 ### 4. Γρήγορο τρέξιμο
+- [ ] Στον φάκελο με το κώδικα τοποθετήστε το αρχείο [corfiot_dictionary.csv](https://github.com/diogenisAl/pyAPI/blob/main/additional_files/corfiot_dictionary.csv)
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_corfiot_dictionary.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_corfiot_dictionary.py)
 
 ---
