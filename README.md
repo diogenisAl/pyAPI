@@ -11,7 +11,7 @@
 * [curl.se](https://curl.se/)
 * [cURL Command Tutorial with Examples](https://github.com/diogenisAl/pyAPI/blob/main/additional_files/cURL%20Command%20Tutorial%20with%20Examples.pdf)
 
-- [ ] Ακολουθήστε τις οδηγίες βάσει του αρχείου [Προεργασία για το εργαστήριο σχετικά με τα API.pdf](https://github.com/diogenisAl/pyAPI/blob/main/additional_files/%CE%A0%CF%81%CE%BF%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%84%CE%BF%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF%20%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC%20%CE%BC%CE%B5%20%CF%84%CE%B1%20API.pdf)
+- [ ] Ακολουθήστε τις οδηγίες βάσει του αρχείου: [Προεργασία για το εργαστήριο σχετικά με τα API.pdf](https://github.com/diogenisAl/pyAPI/blob/main/additional_files/%CE%A0%CF%81%CE%BF%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CE%AF%CE%B1%20%CE%B3%CE%B9%CE%B1%20%CF%84%CE%BF%20%CE%B5%CF%81%CE%B3%CE%B1%CF%83%CF%84%CE%AE%CF%81%CE%B9%CE%BF%20%CF%83%CF%87%CE%B5%CF%84%CE%B9%CE%BA%CE%AC%20%CE%BC%CE%B5%20%CF%84%CE%B1%20API.pdf)
 
 ---
 
