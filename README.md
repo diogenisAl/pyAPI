@@ -46,9 +46,9 @@
 - [ ] Εκτελέστε τον κώδικα που θα βρείτε στο [API_spotipy.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_spotipy.py)
 
 Θα πρέπει να έχετε τροποποιήσει κατάλληλα τις αντίστοιχες παραμέτρους:
->spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
-                             client_id='INSERT PUBLIC TOKEN HERE',
-                             client_secret='INSERT SECRET TOKEN HERE')
+> spotify = spotipy.Spotify(client_credentials_manager=SpotifyClientCredentials(
+> client_id='**INSERT PUBLIC TOKEN HERE**',
+> client_secret='**INSERT SECRET TOKEN HERE**')
 
 
 ---
