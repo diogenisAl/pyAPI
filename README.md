@@ -47,9 +47,9 @@
 
 **Υπενθύμιση:** θα πρέπει να τροποποιήσετε κατάλληλα τις αντίστοιχες παραμέτρους στο [API_spotipy.py](https://github.com/diogenisAl/pyAPI/blob/main/source_code/API_spotipy.py):
 
-`client_id='**INSERT PUBLIC TOKEN HERE**',`
+`client_id='**INSERT PUBLIC TOKEN HERE**'`
 
-`client_secret='**INSERT SECRET TOKEN HERE**')`
+`client_secret='**INSERT SECRET TOKEN HERE**'`
 
 
 ---
